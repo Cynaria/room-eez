@@ -1,51 +1,16 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/KingDusty/Desktop/DBC Challenges/room-eez/app/helpers/application_helper.rb": [
+      "/Users/apprentice/room-eez/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/Users/KingDusty/Desktop/DBC Challenges/room-eez/app/models/bill.rb": [
-        1,
-        null,
-        1,
-        null,
+      "/Users/apprentice/room-eez/app/models/event.rb": [
         1,
         1,
-        null,
-        null,
-        null,
-        null
-      ],
-      "/Users/KingDusty/Desktop/DBC Challenges/room-eez/app/models/chore_master.rb": [
-        1,
-        1,
-        1,
-        null
-      ],
-      "/Users/KingDusty/Desktop/DBC Challenges/room-eez/app/models/chore.rb": [
-        1,
-        1,
-        null,
-        null
-      ],
-      "/Users/KingDusty/Desktop/DBC Challenges/room-eez/app/models/user.rb": [
-        1,
-        1,
-        null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        null,
         null
       ]
     },
-    "timestamp": 1401922533
+    "timestamp": 1401927116
   }
 }

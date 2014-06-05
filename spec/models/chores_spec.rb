@@ -1,6 +1,7 @@
 require "spec_helper"
 
 describe Chore do
+	# hard coded in USER_ID, need to get associations working
 	let(:chore) {Chore.new(:name => "Laundry", :description => "Clean my clothes", :happen_at => Time.now, :creator_id => 1)}
 
 	describe "#name" do

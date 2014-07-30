@@ -25,8 +25,8 @@
 				<li><%= link_to "Log Out", user_logout_path, method: 'delete' %>
 				</li>
 			<% else %>
-				<li><%= link_to "Sign up", new_user_path %></li>
-				<li><%= link_to "Log In", user_login_path %></li>
+				<li><%= link_to "Sign up", new_user_path, :class => "nav-button" %></li>
+				<li><%= link_to "Log In", user_login_path, :class => "nav-button" %></li>
 			<% end %>
 	</header>
 	<%= yield %>

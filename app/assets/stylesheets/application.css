@@ -19,21 +19,14 @@ header h1{
 }
 
 header ul {
-	/*height: 100%;*/
 	float: right;
-	font-size: 1.75em;
+	font-size: 1.5em;
 	list-style: none;
 	padding: 0;
 	margin-top: 0;
-	border-left: 2px solid #2b5a70;
 }
 header ul li {
-	/*display: inline-block;*/
 	padding: 5px 15px;
-}
-
-header ul li:first-child{
-	border-bottom: 2px solid #2b5a70;
 }
 
 header a {
@@ -44,6 +37,20 @@ header a {
 a{
 	text-decoration: none;
 	color: #5a5c66;
+}
+
+.nav-button{
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.nav-button:hover{
+	background-color: #80c7c9;
+    -webkit-transition: background 200ms ;
+    -moz-transition: background 200ms ;
+    -o-transition: background 200ms ;
+    -ms-transition: background 200ms ;
+    transition: background 200ms ;
 }
 
 

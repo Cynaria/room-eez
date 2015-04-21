@@ -1,4 +1,4 @@
 room-eez
 ========
 
-So that roommates can get their shit together
+So that roommates can organize their stuff together
